@@ -1,2 +1,2 @@
-# Starrocks
-The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project
+#passwordmaneger
+The Password Manager is a Java-based console application designed to help users securely generate, evaluate, and understand the strength of their passwords. With increasing threats to online security, managing strong and unpredictable passwords is essential. This project provides a simple interface to generate random passwords based on user preferences and analyze their strength, along with offering basic password security tips.
